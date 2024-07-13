@@ -48,17 +48,6 @@ So here's the deal: Git's watching your project files, branches let you do your 
 
 </details>
 
-<details>
-<summary>Common Workflow</summary>
-
-1. `git fetch` - Grab the latest changes
-2. `git pull <branch>` - Yank down the latest branch
-3. `git add .` - Stage all your changed files
-4. `git commit -m "<message>"` - Lock in those changes
-5. `git push` - Launch your commits to the remote
-
-</details>
-
 ## Common Patterns
 
 ### How do I create a repo? 🤔
